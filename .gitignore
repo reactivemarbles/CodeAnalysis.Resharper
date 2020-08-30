@@ -309,7 +309,7 @@ __pycache__/
 *.pyc
 
 # Cake - Uncomment if you are using it
-tools/**
+**/tools/**
 !tools/packages.config
 
 # Tabs Studio
@@ -353,6 +353,9 @@ MigrationBackup/
 
 # JetBrains Rider
 .idea/
+
+# Android
+.gradle
 
 # Xamarin.Android Resource.Designer.cs files
 **/*.Android/**/[Rr]esource.[Dd]esigner.cs
