@@ -1,0 +1,3 @@
+rootProject.name = 'reactivemarbles.codeanalysis.resharper'
+
+include ':protocol'
